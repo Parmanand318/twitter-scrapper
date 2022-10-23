@@ -1,0 +1,4 @@
+snscrape
+streamlit
+pandas
+datetime
